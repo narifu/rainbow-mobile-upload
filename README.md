@@ -1,1 +1,1 @@
-# rainbow-mobile-upload
+# rainbow-mobile-previewer
